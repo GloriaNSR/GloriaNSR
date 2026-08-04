@@ -22,13 +22,4 @@ Desarrollador Web apasionada por crear interfaces visualmente atractivas y siste
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 📊 Mis Estadísticas
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GloriaNSR&show_icons=true&theme=tokyonight)](https://github.com/GloriaNSR)
-
-* Siendo los lenguajes más usados:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GloriaNSR&layout=compact&theme=tokyonight)](https://github.com/GloriaNSR)
 
