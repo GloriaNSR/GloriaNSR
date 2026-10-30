@@ -6,6 +6,7 @@ Desarrollador Web apasionada por crear interfaces visualmente atractivas y siste
 
 ### 👨‍💻 Sobre mí
 
+* 📖 Estudiando actualmente la especialización de IA y BigData.
 * 🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW), enfocada en construir soluciones robustas y escalables.
 * 🌱 Siempre en constante aprendizaje. Actualmente sigo formándome y explorando nuevas tecnologías para complementar mi perfil profesional.
 * 🚀 Buscando mi primera oportunidad en el sector IT o nuevos retos donde pueda aportar valor, seguir creciendo y aplicar mis conocimientos.
